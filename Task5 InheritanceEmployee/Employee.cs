@@ -30,4 +30,5 @@ namespace Task5_InheritanceEmployee
             Console.WriteLine("Developer - writing code");
         }
     }
+    //test
 }
