@@ -2,9 +2,16 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hey Folks!");
+            Person person = new Person();
+            Console.WriteLine("Enter age");
+            person.Age = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter Name");
+            person.Name = Console.ReadLine();
+
+            person.Introduce();
         }
     }
 }
