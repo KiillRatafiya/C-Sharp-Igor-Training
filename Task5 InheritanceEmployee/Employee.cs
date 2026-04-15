@@ -30,5 +30,10 @@ namespace Task5_InheritanceEmployee
             Console.WriteLine("Developer - writing code");
         }
     }
-    //test
-}
+    class Student : Employee
+    {
+        public override void Work()
+        {
+            Console.WriteLine("Student - learning");
+        }
+    }
