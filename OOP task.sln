@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3 ConstructorBook", "Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4 Inheritance Animal", "Task4 Inheritance Animal\Task4 Inheritance Animal.csproj", "{355ACB86-B5E4-4A8E-9E5C-480A4DE0ADDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5InheritanceEmployee", "Task5InheritanceEmployee\Task5InheritanceEmployee.csproj", "{E5E5EE5D-0810-43FF-B099-D61C81066812}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5 InheritanceEmployee", "Task5InheritanceEmployee\Task5 InheritanceEmployee.csproj", "{E5E5EE5D-0810-43FF-B099-D61C81066812}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
