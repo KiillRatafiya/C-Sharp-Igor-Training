@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task5_Employee
+namespace Task5_InheritanceEmployee
 {
     class Employee
     {
-        public string Name { get; set; } 
+        public string Name { get; set; }
         public int Salary { get; set; }
         public virtual void Work()
         {

@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3 ConstructorBook", "Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4 Inheritance Animal", "Task4 Inheritance Animal\Task4 Inheritance Animal.csproj", "{355ACB86-B5E4-4A8E-9E5C-480A4DE0ADDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5 Employee", "Task5 Employee\Task5 Employee.csproj", "{14E45B04-B36C-417F-A886-350D73E331CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5 InheritanceEmployee", "Task5 InheritanceEmployee\Task5 InheritanceEmployee.csproj", "{8B3D2781-5AD1-42A5-BE15-B1F355B3BBBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{355ACB86-B5E4-4A8E-9E5C-480A4DE0ADDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{355ACB86-B5E4-4A8E-9E5C-480A4DE0ADDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{355ACB86-B5E4-4A8E-9E5C-480A4DE0ADDA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{14E45B04-B36C-417F-A886-350D73E331CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14E45B04-B36C-417F-A886-350D73E331CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14E45B04-B36C-417F-A886-350D73E331CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{14E45B04-B36C-417F-A886-350D73E331CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3D2781-5AD1-42A5-BE15-B1F355B3BBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3D2781-5AD1-42A5-BE15-B1F355B3BBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3D2781-5AD1-42A5-BE15-B1F355B3BBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3D2781-5AD1-42A5-BE15-B1F355B3BBBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
