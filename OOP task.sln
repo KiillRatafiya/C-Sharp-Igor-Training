@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3 ConstructorBook", "Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1 Person", "Task1 Person\Task1 Person.csproj", "{20C606C8-9162-E041-51F7-AE6B6722E53D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task10 TransportSystem", "Task10 TransportSystem\Task10 TransportSystem.csproj", "{AF7139FF-C23D-4527-9D99-81FD562AE5EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{20C606C8-9162-E041-51F7-AE6B6722E53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20C606C8-9162-E041-51F7-AE6B6722E53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20C606C8-9162-E041-51F7-AE6B6722E53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7139FF-C23D-4527-9D99-81FD562AE5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7139FF-C23D-4527-9D99-81FD562AE5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7139FF-C23D-4527-9D99-81FD562AE5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7139FF-C23D-4527-9D99-81FD562AE5EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
