@@ -17,7 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6 InterfacePrintable", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task7 InterfaceIMovable", "Task7 InterfaceIMovable\Task7 InterfaceIMovable.csproj", "{D2C400AD-C4A8-462B-81A3-60780994C7AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task8 InheritanceShape", "Task8 InheritanceShape\Task8 InheritanceShape.csproj", "{4F1F60EA-B28F-4314-93E0-357DA80B269B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task8 InheritanceShapeVirtual", "Task8 InheritanceShape\Task8 InheritanceShapeVirtual.csproj", "{4F1F60EA-B28F-4314-93E0-357DA80B269B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task9 InterfacesIFlyableISwimmable", "Task9 InterfacesIFlyableISwimmable\Task9 InterfacesIFlyableISwimmable.csproj", "{77BAAACF-E440-498C-82ED-CC51AA12F524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task8 InheritanceShapeAbstract", "Task8InheritanceShapeAbstract\Task8 InheritanceShapeAbstract.csproj", "{DD55D95F-4B43-43F7-BE1E-1455251E30FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{4F1F60EA-B28F-4314-93E0-357DA80B269B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F1F60EA-B28F-4314-93E0-357DA80B269B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F1F60EA-B28F-4314-93E0-357DA80B269B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BAAACF-E440-498C-82ED-CC51AA12F524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BAAACF-E440-498C-82ED-CC51AA12F524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BAAACF-E440-498C-82ED-CC51AA12F524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BAAACF-E440-498C-82ED-CC51AA12F524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD55D95F-4B43-43F7-BE1E-1455251E30FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD55D95F-4B43-43F7-BE1E-1455251E30FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD55D95F-4B43-43F7-BE1E-1455251E30FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD55D95F-4B43-43F7-BE1E-1455251E30FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
