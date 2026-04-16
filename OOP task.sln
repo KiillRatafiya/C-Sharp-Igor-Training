@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4 Inheritance Animal", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5 InheritanceEmployee", "Task5 InheritanceEmployee\Task5 InheritanceEmployee.csproj", "{8B3D2781-5AD1-42A5-BE15-B1F355B3BBBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6 InterfacePrintable", "Task6 InterfacePrintable\Task6 InterfacePrintable.csproj", "{E2F15FA7-7D84-4A36-B199-8E3E55DE4143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task7 InterfaceIMovable", "Task7 InterfaceIMovable\Task7 InterfaceIMovable.csproj", "{D2C400AD-C4A8-462B-81A3-60780994C7AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{8B3D2781-5AD1-42A5-BE15-B1F355B3BBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B3D2781-5AD1-42A5-BE15-B1F355B3BBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B3D2781-5AD1-42A5-BE15-B1F355B3BBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F15FA7-7D84-4A36-B199-8E3E55DE4143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F15FA7-7D84-4A36-B199-8E3E55DE4143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F15FA7-7D84-4A36-B199-8E3E55DE4143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F15FA7-7D84-4A36-B199-8E3E55DE4143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C400AD-C4A8-462B-81A3-60780994C7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C400AD-C4A8-462B-81A3-60780994C7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C400AD-C4A8-462B-81A3-60780994C7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C400AD-C4A8-462B-81A3-60780994C7AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
