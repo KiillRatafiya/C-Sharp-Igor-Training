@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6 InterfacePrintable", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task7 InterfaceIMovable", "Task7 InterfaceIMovable\Task7 InterfaceIMovable.csproj", "{D2C400AD-C4A8-462B-81A3-60780994C7AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task8 InheritanceShape", "Task8 InheritanceShape\Task8 InheritanceShape.csproj", "{4F1F60EA-B28F-4314-93E0-357DA80B269B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D2C400AD-C4A8-462B-81A3-60780994C7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2C400AD-C4A8-462B-81A3-60780994C7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2C400AD-C4A8-462B-81A3-60780994C7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F1F60EA-B28F-4314-93E0-357DA80B269B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1F60EA-B28F-4314-93E0-357DA80B269B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1F60EA-B28F-4314-93E0-357DA80B269B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1F60EA-B28F-4314-93E0-357DA80B269B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
