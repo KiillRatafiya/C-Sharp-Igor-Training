@@ -5,7 +5,8 @@
         protected double area;
         public virtual double GetArea()
         {
-            throw new NotImplementedException();
+            area = 0;
+            return area;
         }
     }
     class Rectangle : Shape

@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37111.16 d17.14
+VisualStudioVersion = 17.14.37111.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1 Person", "OOP task\Task1 Person.csproj", "{0E5B903B-3293-4BA0-B10B-C105E54C5A39}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2 Car", "Task2 Car\Task2 Car.csproj", "{7EE819A1-2942-41B1-99AD-64C6AFF3AF0A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3 ConstructorBook", "Task3ConstructorBook\Task3 ConstructorBook.csproj", "{AB34857F-B6AE-4686-AA4C-670DD254841C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4 Inheritance Animal", "Task4 Inheritance Animal\Task4 Inheritance Animal.csproj", "{355ACB86-B5E4-4A8E-9E5C-480A4DE0ADDA}"
 EndProject
@@ -23,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task9 InterfacesIFlyableISw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task8 InheritanceShapeAbstract", "Task8InheritanceShapeAbstract\Task8 InheritanceShapeAbstract.csproj", "{DD55D95F-4B43-43F7-BE1E-1455251E30FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3 ConstructorBook", "Task3 ConstructorBook\Task3 ConstructorBook.csproj", "{E147D7E2-3760-5FD4-820A-9B577165918B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,10 +37,6 @@ Global
 		{7EE819A1-2942-41B1-99AD-64C6AFF3AF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EE819A1-2942-41B1-99AD-64C6AFF3AF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EE819A1-2942-41B1-99AD-64C6AFF3AF0A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AB34857F-B6AE-4686-AA4C-670DD254841C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB34857F-B6AE-4686-AA4C-670DD254841C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB34857F-B6AE-4686-AA4C-670DD254841C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AB34857F-B6AE-4686-AA4C-670DD254841C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{355ACB86-B5E4-4A8E-9E5C-480A4DE0ADDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{355ACB86-B5E4-4A8E-9E5C-480A4DE0ADDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{355ACB86-B5E4-4A8E-9E5C-480A4DE0ADDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +65,10 @@ Global
 		{DD55D95F-4B43-43F7-BE1E-1455251E30FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD55D95F-4B43-43F7-BE1E-1455251E30FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD55D95F-4B43-43F7-BE1E-1455251E30FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E147D7E2-3760-5FD4-820A-9B577165918B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E147D7E2-3760-5FD4-820A-9B577165918B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E147D7E2-3760-5FD4-820A-9B577165918B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E147D7E2-3760-5FD4-820A-9B577165918B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
