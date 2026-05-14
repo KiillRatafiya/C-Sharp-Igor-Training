@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1 Person", "Task1 Perso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task10 TransportSystem", "Task10 TransportSystem\Task10 TransportSystem.csproj", "{AF7139FF-C23D-4527-9D99-81FD562AE5EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aviasales", "Aviasales\Aviasales.csproj", "{1D0D8E44-C95B-4030-8FD4-5F5756091289}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{AF7139FF-C23D-4527-9D99-81FD562AE5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF7139FF-C23D-4527-9D99-81FD562AE5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF7139FF-C23D-4527-9D99-81FD562AE5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D0D8E44-C95B-4030-8FD4-5F5756091289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0D8E44-C95B-4030-8FD4-5F5756091289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0D8E44-C95B-4030-8FD4-5F5756091289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0D8E44-C95B-4030-8FD4-5F5756091289}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
